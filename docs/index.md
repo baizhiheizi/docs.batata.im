@@ -5,4 +5,42 @@ title: Introduction
 
 ## What is Batata?
 
+Batata tries to build a **value net** for both **authors** and **readers** in the Web3.
+
 ## How Batata works?
+
+We believe that the value of an article is composed of both the author and the reader, but the actual situation is that the reader's contribution, especially the early readers' contribution,is not well represented. Therefore, the biggest difference between Batata and other platforms is that Batata introduces an **early reader rewards** mechanism.
+
+The specific rules are as follows,
+
+1. Users can publish articles on the **platform** and become **authors**.
+
+2. Articles can be paid or free, paid articles are priced by _Bitcoin_.
+
+3. Users can pay for the articles(buy or reward), i.e. become a **reader** of a article.
+
+4. For every new income from an article, 40% will be allocated to each **early reader** on a pro-rata basis as **Early Reader Bonus** , 10% will be a handling fee for the **platform**, and the rest will be revenue for the **author**.
+
+5. **Readers** can also increase the amount they pay for an article by means of a reward in order to increase their share of the bonus.
+
+For example:
+
+User A published an article X pricing 100 Satoshi on the platform.
+
+User B paid 100 Satoshi for article X and got the right to read the article.
+
+Therefore, article X earned 100 Satoshi, because B is the first reader and there is no earlier reader, so there is no early reader bonus; 10 Satoshi(10%) is used as the platform's handling fee; The remaining 90 Satoshi are all taken as author revenue and transferred to the account of author A.
+
+User C paid 100 Satoshi for article x after B. As a result, Article X earns another 100 Satoshi.
+
+Among them, 40 Satoshi(40%) will be used as an early reader bonus. At this time, there is only one early reader, user B, so B monopolizes this 40% reward; The platform also receives 10 Satoshi(10%) as a handling fee; The remaining 50 Satoshi is the author's income.
+
+After C, user D also paid 100 Satoshi for article X.
+
+Similarly, 40 Satoshi(40%) will be rewarded as early readers bonus. At this time, there are two early readers, namely B and C, who paid 100 Satoshi for article X before, so both B and C will be rewarded with `40 * 100/(100+100) = 20` Satoshi respectively.
+
+The platform also charges 10 Satoshi(10%) as a handling fee; The remaining 50 Satoshi is the author's income.
+
+And so on.
+
+It is worth reminding that besides the payment for articles, the income from other payment behaviors (such as reward) will also be included in the distribution ratio of early readers' bonus.
