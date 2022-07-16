@@ -54,9 +54,7 @@ Fill the custom network form with the information following.
 >
 > Symbol: XIN
 >
-> Block Explorer URL
->
-> https://scan.mvm.dev
+> Block Explorer URL: https://scan.mvm.dev
 
 ## Scan to connect
 
