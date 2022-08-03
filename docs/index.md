@@ -3,13 +3,13 @@ sidebar_position: 1
 title: Introduction
 ---
 
-## What is Batata?
+## What is Quill?
 
-Batata tries to build a **value net** for both **authors** and **readers** in the Web3.
+Quill is building a **value net** on Web3 for both **authors** and **readers**.
 
-## How Batata works?
+## How Quill works?
 
-We believe that the value of an article is composed of both the author and the reader, but the actual situation is that the reader's contribution, especially the early readers' contribution,is not well represented. Therefore, the biggest difference between Batata and other platforms is that Batata introduces an **early reader rewards** mechanism.
+We believe that the value of an article is composed of both the author and the reader, but the actual situation is that the reader's contribution, especially the early readers' contribution,is not well represented. Therefore, the biggest difference between Quill and other platforms is that Quill introduces an **early reader rewards** mechanism.
 
 The specific rules are as follows,
 

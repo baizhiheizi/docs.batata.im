@@ -12,7 +12,7 @@ And if you're using Brave, the built-in Brave Wallet is ready to use.
 
 ## Invoke to connect
 
-Click _Connect Wallet_ in [Batata](https://batata.im) navbar. Select _MetaMask_ in the popup modal.
+Click _Connect Wallet_ in [Quill](https://quill.im) navbar. Select _MetaMask_ in the popup modal.
 
 <div class="max-w-lg mx-auto">
 
@@ -22,7 +22,7 @@ Click _Connect Wallet_ in [Batata](https://batata.im) navbar. Select _MetaMask_ 
 
 ## Select your account
 
-Unlock your MetaMask first if it is locked. Select your account to connect [Batata](https://batata.im).
+Unlock your MetaMask first if it is locked. Select your account to connect [Quill](https://quill.im).
 
 <div className="grid gap-4 sm:grid-cols-2">
 
@@ -34,7 +34,7 @@ Unlock your MetaMask first if it is locked. Select your account to connect [Bata
 
 ## Sign to authorize
 
-Then, [Batata](https://batata.im) will invoke a signature request for MetaMask to authorize.
+Then, [Quill](https://quill.im) will invoke a signature request for MetaMask to authorize.
 
 <div class="max-w-lg mx-auto">
 
@@ -46,7 +46,7 @@ Click _Sign_. Then you're connected now!
 
 ## Switch to MVM
 
-If you're using [Batata](https://batata.im) for the first time. It may request you to change network to [Mixin Virtual Machine(MVM)](https://scan.mvm.dev). Confirm to switch.
+If you're using [Quill](https://quill.im) for the first time. It may request you to change network to [Mixin Virtual Machine(MVM)](https://scan.mvm.dev). Confirm to switch.
 
 <div class="max-w-lg mx-auto">
 
@@ -54,4 +54,4 @@ If you're using [Batata](https://batata.im) for the first time. It may request y
 
 </div>
 
-🥳🥳🥳 Hooray! You're ready to use [Batata](https://batata.im) now!
+🥳🥳🥳 Hooray! You're ready to use [Quill](https://quill.im) now!

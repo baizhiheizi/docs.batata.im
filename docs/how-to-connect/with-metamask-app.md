@@ -10,7 +10,7 @@ Ensure to install the [MetaMask App](https://metamask.io/download/) on your phon
 
 ## Invoke to connect
 
-Click _Connect Wallet_ in [Batata](https://batata.im) navbar. Select _WalletConnect_ in the popup modal.
+Click _Connect Wallet_ in [Quill](https://quill.im) navbar. Select _WalletConnect_ in the popup modal.
 
 <div class="max-w-lg mx-auto">
 
@@ -66,4 +66,4 @@ Scan the WalletConnect Qrcode using MetaMask App. It will popup some modals to c
 
 Confirm to connect and sign to authorize.
 
-🥳🥳🥳 Hooray! You're ready to use [Batata](https://batata.im) now!
+🥳🥳🥳 Hooray! You're ready to use [Quill](https://quill.im) now!
