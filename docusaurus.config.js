@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Documents",
+  title: "Quill Documents",
   tagline: "I'm Quill",
   url: "https://docs.quill.im",
   baseUrl: "/",
@@ -50,7 +50,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Quill Documents",
+        title: "Documents",
         logo: {
           alt: "Quill Logo",
           src: "img/logo.svg",
