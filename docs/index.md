@@ -3,6 +3,8 @@ sidebar_position: 1
 title: Introduction
 ---
 
+![banner](/img/banner.png)
+
 ## What is Quill?
 
 Quill is building a **value net** on Web3 for both **authors** and **readers**.
